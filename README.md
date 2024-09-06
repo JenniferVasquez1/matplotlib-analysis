@@ -7,7 +7,7 @@
 ## Description
 Analysis of potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer
 
-![app_image](mockup.png)
+![app_image](Pymaceuticals/mockup.png)
 
 ## Table of Contents
 - [Installation](#installation)
